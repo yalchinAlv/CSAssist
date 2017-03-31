@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\CSAssist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\newlogo.png",
+        "source": "E:\\CSAssist\\app\\src\\main\\res\\mipmap-xxxhdpi\\newlogo.png"
+    },
+    {
+        "merged": "E:\\CSAssist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\CSAssist\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\CSAssist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\cs_assist_logo.png",
+        "source": "E:\\CSAssist\\app\\src\\main\\res\\mipmap-xxxhdpi\\cs_assist_logo.png"
+    }
+]

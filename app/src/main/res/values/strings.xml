@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS Assist</string>
+    <string name="sections_string">Sections</string>
+    <string name="title_activity_sections_menu">SectionsMenuActivity</string>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\CSAssist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\CSAssist\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\CSAssist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\cs_assist_logo.png",
+        "source": "E:\\CSAssist\\app\\src\\main\\res\\mipmap-xhdpi\\cs_assist_logo.png"
+    }
+]
