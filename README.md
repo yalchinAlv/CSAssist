@@ -1,5 +1,5 @@
 # CSAssist
-A mobile Android lab grader application for teaching assistants, coded in Java
+A mobile Android lab grader application for teaching assistants, coded in Java by Codeletes
 ### Contributions
 #### Barış Eymür
 Worked on core java classes
