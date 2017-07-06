@@ -48,10 +48,11 @@ public class CSAssist implements Serializable{
      // properties
      private Section[] sections;
      public static final long serialVersionUID = 1;
+     private final int numOfSections = 15;
      
      // constructor
      public CSAssist() {
-          sections = new Section[15];
+          sections = new Section[numOfSections];
      }
      
      // methods
